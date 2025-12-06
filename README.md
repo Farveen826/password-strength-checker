@@ -1,18 +1,18 @@
 # Password Strength Checker
 
-## Objective
-A simple Python program that evaluates password strength based on cybersecurity standards.
-
-## Features
-- Checks password length
-- Identifies use of uppercase, lowercase, digits and special symbols
-- Gives score and feedback
-- Shows improvement suggestions
-
-## Technologies Used
-- Python
-- Regex
+## What it does
+A small Python script that evaluates password strength and provides suggestions to improve it.
 
 ## How to run
-1. Clone repository
-2. Run:
+1. Install Python 3.8+
+2. Run: `python password_checker.py`
+3. Enter a password when prompted.
+
+## Files
+- `password_checker.py` — main script
+- `sample_output.txt` — example runs
+
+## Skills demonstrated
+- Python scripting
+- Regex
+- Basic security awareness (password best practices)
